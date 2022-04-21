@@ -48,7 +48,7 @@ The results are later exported to the Google spreadsheet for the statistical and
 Link to the project:
 https://colab.research.google.com/drive/1HRGiMSLQ72LJmVEEZWZ8SNbEgQG9dtnP?usp=sharing
 
-Link to testing image data: 
+Link to the testing image data: 
 http://cdn.shibe.online/shibes/e4a90fa2c4f2493172d9e85a7e93c2a47eede3a5.jpg
 http://cdn.shibe.online/shibes/069011c08d599e45433af3d4563d66a399736d7c.jpg
 http://cdn.shibe.online/shibes/fcac2c67aeb459dcfc4eaed2fb4f9a916aaffba2.jpg
@@ -63,6 +63,6 @@ http://cdn.shibe.online/shibes/059873a73e606f1dc3d2cf19b1e65afbba61ba27.jpg
  http://cdn.shibe.online/shibes/ff3fa37f208bc8b91aeacfb83c848c2cccbbb8ec.jpg
 http://cdn.shibe.online/shibes/87f19e130d16f5c9f9ae01fa34569bdd4994e531.jpg
 
-Link to Google spreadsheet:
+Link to Google spreadsheet with results:
 https://docs.google.com/spreadsheets/d/17hwk-V8JTKVEBFhAea9TUNgkXCQezsRcDutZSLjBzSI/edit?usp=sharing
 
